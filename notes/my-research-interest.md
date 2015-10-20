@@ -23,3 +23,4 @@ blastn \
 
 I need to write something else
 
+![picture-of-something](http://artelista.s3.amazonaws.com/obras/big/6/3/9/7896022039281850.jpg)
